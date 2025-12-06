@@ -1,0 +1,506 @@
+{
+  "start": 2800,
+  "end": 2900,
+  "problems": [
+    {
+      "contestId": 1919,
+      "index": "F2",
+      "frequency": 58721
+    },
+    {
+      "contestId": 10,
+      "index": "D",
+      "frequency": 40210
+    },
+    {
+      "contestId": 1942,
+      "index": "G",
+      "frequency": 36753
+    },
+    {
+      "contestId": 1819,
+      "index": "D",
+      "frequency": 33309
+    },
+    {
+      "contestId": 1830,
+      "index": "D",
+      "frequency": 32589
+    },
+    {
+      "contestId": 1827,
+      "index": "D",
+      "frequency": 31976
+    },
+    {
+      "contestId": 1844,
+      "index": "F2",
+      "frequency": 31293
+    },
+    {
+      "contestId": 613,
+      "index": "D",
+      "frequency": 30001
+    },
+    {
+      "contestId": 1904,
+      "index": "F",
+      "frequency": 28881
+    },
+    {
+      "contestId": 1863,
+      "index": "G",
+      "frequency": 27274
+    },
+    {
+      "contestId": 555,
+      "index": "E",
+      "frequency": 27211
+    },
+    {
+      "contestId": 1842,
+      "index": "G",
+      "frequency": 26117
+    },
+    {
+      "contestId": 1879,
+      "index": "F",
+      "frequency": 25244
+    },
+    {
+      "contestId": 1874,
+      "index": "D",
+      "frequency": 24893
+    },
+    {
+      "contestId": 1943,
+      "index": "D2",
+      "frequency": 24843
+    },
+    {
+      "contestId": 1967,
+      "index": "D",
+      "frequency": 24723
+    },
+    {
+      "contestId": 1810,
+      "index": "F",
+      "frequency": 23785
+    },
+    {
+      "contestId": 1783,
+      "index": "G",
+      "frequency": 23363
+    },
+    {
+      "contestId": 1746,
+      "index": "F",
+      "frequency": 21819
+    },
+    {
+      "contestId": 1935,
+      "index": "F",
+      "frequency": 20708
+    },
+    {
+      "contestId": 1635,
+      "index": "F",
+      "frequency": 18924
+    },
+    {
+      "contestId": 1375,
+      "index": "G",
+      "frequency": 18797
+    },
+    {
+      "contestId": 1845,
+      "index": "F",
+      "frequency": 18325
+    },
+    {
+      "contestId": 1913,
+      "index": "F",
+      "frequency": 18322
+    },
+    {
+      "contestId": 1442,
+      "index": "D",
+      "frequency": 16810
+    },
+    {
+      "contestId": 1142,
+      "index": "D",
+      "frequency": 16596
+    },
+    {
+      "contestId": 1684,
+      "index": "G",
+      "frequency": 16089
+    },
+    {
+      "contestId": 19,
+      "index": "D",
+      "frequency": 15496
+    },
+    {
+      "contestId": 702,
+      "index": "F",
+      "frequency": 15468
+    },
+    {
+      "contestId": 1826,
+      "index": "F",
+      "frequency": 15184
+    },
+    {
+      "contestId": 1698,
+      "index": "F",
+      "frequency": 15117
+    },
+    {
+      "contestId": 1379,
+      "index": "F2",
+      "frequency": 15080
+    },
+    {
+      "contestId": 1866,
+      "index": "J",
+      "frequency": 14620
+    },
+    {
+      "contestId": 1491,
+      "index": "G",
+      "frequency": 14596
+    },
+    {
+      "contestId": 1400,
+      "index": "F",
+      "frequency": 13970
+    },
+    {
+      "contestId": 204,
+      "index": "E",
+      "frequency": 13961
+    },
+    {
+      "contestId": 1809,
+      "index": "G",
+      "frequency": 13582
+    },
+    {
+      "contestId": 600,
+      "index": "F",
+      "frequency": 13521
+    },
+    {
+      "contestId": 1884,
+      "index": "E",
+      "frequency": 13286
+    },
+    {
+      "contestId": 1545,
+      "index": "C",
+      "frequency": 13174
+    },
+    {
+      "contestId": 1693,
+      "index": "D",
+      "frequency": 13094
+    },
+    {
+      "contestId": 547,
+      "index": "E",
+      "frequency": 13003
+    },
+    {
+      "contestId": 163,
+      "index": "E",
+      "frequency": 12979
+    },
+    {
+      "contestId": 1654,
+      "index": "F",
+      "frequency": 12698
+    },
+    {
+      "contestId": 1852,
+      "index": "D",
+      "frequency": 12662
+    },
+    {
+      "contestId": 1625,
+      "index": "E2",
+      "frequency": 12658
+    },
+    {
+      "contestId": 1808,
+      "index": "E3",
+      "frequency": 12533
+    },
+    {
+      "contestId": 620,
+      "index": "F",
+      "frequency": 12473
+    },
+    {
+      "contestId": 838,
+      "index": "C",
+      "frequency": 12213
+    },
+    {
+      "contestId": 1923,
+      "index": "F",
+      "frequency": 12199
+    },
+    {
+      "contestId": 913,
+      "index": "F",
+      "frequency": 12178
+    },
+    {
+      "contestId": 1949,
+      "index": "K",
+      "frequency": 12176
+    },
+    {
+      "contestId": 762,
+      "index": "F",
+      "frequency": 12168
+    },
+    {
+      "contestId": 1365,
+      "index": "G",
+      "frequency": 11190
+    },
+    {
+      "contestId": 1279,
+      "index": "F",
+      "frequency": 11098
+    },
+    {
+      "contestId": 986,
+      "index": "E",
+      "frequency": 10742
+    },
+    {
+      "contestId": 983,
+      "index": "E",
+      "frequency": 10734
+    },
+    {
+      "contestId": 1286,
+      "index": "C2",
+      "frequency": 10724
+    },
+    {
+      "contestId": 1371,
+      "index": "F",
+      "frequency": 10689
+    },
+    {
+      "contestId": 850,
+      "index": "E",
+      "frequency": 10244
+    },
+    {
+      "contestId": 850,
+      "index": "F",
+      "frequency": 10242
+    },
+    {
+      "contestId": 280,
+      "index": "D",
+      "frequency": 10170
+    },
+    {
+      "contestId": 360,
+      "index": "E",
+      "frequency": 9935
+    },
+    {
+      "contestId": 1394,
+      "index": "D",
+      "frequency": 9722
+    },
+    {
+      "contestId": 1612,
+      "index": "F",
+      "frequency": 9719
+    },
+    {
+      "contestId": 1316,
+      "index": "F",
+      "frequency": 9719
+    },
+    {
+      "contestId": 869,
+      "index": "D",
+      "frequency": 9291
+    },
+    {
+      "contestId": 757,
+      "index": "F",
+      "frequency": 9275
+    },
+    {
+      "contestId": 1473,
+      "index": "G",
+      "frequency": 9272
+    },
+    {
+      "contestId": 722,
+      "index": "F",
+      "frequency": 9245
+    },
+    {
+      "contestId": 1606,
+      "index": "F",
+      "frequency": 8802
+    },
+    {
+      "contestId": 1155,
+      "index": "F",
+      "frequency": 8770
+    },
+    {
+      "contestId": 1773,
+      "index": "G",
+      "frequency": 8766
+    },
+    {
+      "contestId": 286,
+      "index": "E",
+      "frequency": 8746
+    },
+    {
+      "contestId": 1525,
+      "index": "F",
+      "frequency": 8740
+    },
+    {
+      "contestId": 794,
+      "index": "F",
+      "frequency": 8665
+    },
+    {
+      "contestId": 1592,
+      "index": "F2",
+      "frequency": 8272
+    },
+    {
+      "contestId": 908,
+      "index": "G",
+      "frequency": 8240
+    },
+    {
+      "contestId": 1404,
+      "index": "E",
+      "frequency": 8195
+    },
+    {
+      "contestId": 1672,
+      "index": "F2",
+      "frequency": 8147
+    },
+    {
+      "contestId": 1900,
+      "index": "F",
+      "frequency": 8128
+    },
+    {
+      "contestId": 1572,
+      "index": "D",
+      "frequency": 8082
+    },
+    {
+      "contestId": 1208,
+      "index": "G",
+      "frequency": 7728
+    },
+    {
+      "contestId": 1766,
+      "index": "F",
+      "frequency": 7684
+    },
+    {
+      "contestId": 794,
+      "index": "E",
+      "frequency": 7649
+    },
+    {
+      "contestId": 1039,
+      "index": "D",
+      "frequency": 7563
+    },
+    {
+      "contestId": 493,
+      "index": "E",
+      "frequency": 7322
+    },
+    {
+      "contestId": 1620,
+      "index": "F",
+      "frequency": 7281
+    },
+    {
+      "contestId": 1938,
+      "index": "L",
+      "frequency": 7253
+    },
+    {
+      "contestId": 348,
+      "index": "E",
+      "frequency": 7166
+    },
+    {
+      "contestId": 1393,
+      "index": "E1",
+      "frequency": 6846
+    },
+    {
+      "contestId": 1455,
+      "index": "F",
+      "frequency": 6839
+    },
+    {
+      "contestId": 685,
+      "index": "E",
+      "frequency": 6798
+    },
+    {
+      "contestId": 815,
+      "index": "D",
+      "frequency": 6795
+    },
+    {
+      "contestId": 1033,
+      "index": "E",
+      "frequency": 6779
+    },
+    {
+      "contestId": 1389,
+      "index": "G",
+      "frequency": 6766
+    },
+    {
+      "contestId": 850,
+      "index": "D",
+      "frequency": 6353
+    },
+    {
+      "contestId": 1082,
+      "index": "F",
+      "frequency": 6329
+    },
+    {
+      "contestId": 819,
+      "index": "E",
+      "frequency": 6289
+    },
+    {
+      "contestId": 842,
+      "index": "E",
+      "frequency": 5848
+    }
+  ]
+}
